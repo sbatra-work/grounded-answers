@@ -1,0 +1,2 @@
+These documents describe Fernhill Bicycle Works, a fictional company. They were
+written for this repository and are not taken from any real organisation.
